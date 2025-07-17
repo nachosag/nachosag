@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an E-Commerce platform<br>👯 I’m looking to collaborate on challenging projects<br>🤝 I’m looking for help with whatever I may be useful<br>🌱 I’m currently learning server side technologies<br>💬 Ask me about Boca Juniors, Messi, Football and programming things<br>⚡ Fun fact I'm a developer
+🔭 I’m currently cooking something<br>👯 I’m looking to collaborate on challenging projects<br>🤝 I’m looking for help with whatever I may be useful<br>🌱 I’m currently learning server side technologies<br>💬 Ask me about Boca Juniors, Messi, Football and programming things<br>⚡ Fun fact I'm a developer
 
 
 ## 🌐 Socials:
